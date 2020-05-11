@@ -1,0 +1,1 @@
+Result: 15 78 7 / - STR CONCAT2 .
